@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "fsystem": "^0.2.2",
+    "mocha": "^10.2.0",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "type": "module"
 }
